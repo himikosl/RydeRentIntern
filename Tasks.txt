@@ -1,0 +1,15 @@
+As a candidate applied for Ryde Rent a Car Plc for the Internship. You are given a simple test. 
+
+Details of the test. 
+
+1. Create a Laravel Application
+2. Write migrations to create two tables. ( users and posts ) 
+3. Users table will have a name, email, password and a phone number
+4. Posts table will have a post title and a description 
+5. Users should be able to Register and Login and create posts. 
+
+Use Github to submit your work. Email us a link to the Github repository. You are given 4 days to complete this task. We will be expecting your repository by Sunday (before 11.59 pm). 
+
+Please don't commit the vendor directory to the Github repository. 
+
+If you have any questions please ask.
